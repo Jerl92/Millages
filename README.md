@@ -4,8 +4,8 @@
 
 ## Screenshot
 
-<img style="max-width: 50%;" src="https://i.ibb.co/Rh6zBn2/gt435hw.png" />
-<img style="max-width: 50%;" src="https://i.ibb.co/FsbYC5P/g434g54325431h2.png" />
+<img max-width="50%" src="https://i.ibb.co/Rh6zBn2/gt435hw.png" />
+<img max-width="50%" src="https://i.ibb.co/FsbYC5P/g434g54325431h2.png" />
 
 ## Installation
 
