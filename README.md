@@ -2,6 +2,9 @@
 
 <img src="https://i.ibb.co/LQX0Xjc/h798g87bjp.png" />
 
+## How does it work
+Responsive and interactive table to count the kilometer and worked time</br>
+
 ## Screenshot
 
 <p float="left">
