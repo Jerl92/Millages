@@ -4,8 +4,10 @@
 
 ## Screenshot
 
-<img width="47.5%" src="https://i.ibb.co/Rh6zBn2/gt435hw.png" />
-<img width="47.5%" src="https://i.ibb.co/FsbYC5P/g434g54325431h2.png" />
+<p float="left">
+  <img width="49%" src="https://i.ibb.co/FsbYC5P/g434g54325431h2.png" />
+  <img width="49%" src="https://i.ibb.co/Rh6zBn2/gt435hw.png" />
+</p>
 
 ## Installation
 
@@ -16,10 +18,10 @@
 
 ## Google API KEY
 
-In file /millages/includes/millage-ajax.php.
-You need to add the Google Map API KEY to the enqueue script « map ».
-wp_enqueue_script( 'map', "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE", array( 'jquery' ), '1.0.0', true );
-- https://developers.google.com/maps/documentation/javascript/get-api-key/
+In file /millages/includes/millage-ajax.php.</br>
+You need to add the Google Map API KEY to the enqueue script « map ».</br>
+wp_enqueue_script( 'map', "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE", array( 'jquery' ), '1.0.0', true );</br>
+- https://developers.google.com/maps/documentation/javascript/get-api-key/</br>
 
 ## Changelog
 
